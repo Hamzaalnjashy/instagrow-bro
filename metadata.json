@@ -1,0 +1,6 @@
+{
+  "name": "InstaGrow Pro | منصة زيادة المتابعين واللايكات",
+  "description": "منصة احترافية لزيادة وتزويد متابعي إنستغرام ولايكات المنشورات بأمان فائق مع محاكي تسليم فوري وتدريجي وأدوات نمو متكاملة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

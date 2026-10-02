@@ -1,0 +1,27 @@
+{
+  "activeProviderId": "jap",
+  "providers": [
+    {
+      "id": "jap",
+      "name": "JustAnotherPanel (JAP)",
+      "apiUrl": "https://justanotherpanel.com/api/v2",
+      "apiKey": "19a12c8675cf9ae2dbbe4235d411e71c",
+      "followerServiceId": "10350",
+      "likesServiceId": "102",
+      "isEnabled": true,
+      "inAppBalance": 0,
+      "portalUrl": "https://justanotherpanel.com/addfunds"
+    },
+    {
+      "id": "peakerr",
+      "name": "Peakerr API v2",
+      "apiUrl": "https://peakerr.com/api/v2",
+      "apiKey": "8fa20fa91cdd60085d49275484a77e9e",
+      "followerServiceId": "31929",
+      "likesServiceId": "31785",
+      "isEnabled": true,
+      "inAppBalance": 0,
+      "portalUrl": "https://peakerr.com/addfunds"
+    }
+  ]
+}
